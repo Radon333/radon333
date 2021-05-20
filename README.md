@@ -16,7 +16,7 @@
 
 
 
-![Ranveer's github activity graph](https://activity-graph.herokuapp.com/graph?username=radon333&theme=xcode)
+![Ranveer's github activity graph](https://activity-graph.herokuapp.com/graph?username=radon333&theme=github)
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=radon333&theme=react&show_icons=true&locale=en&layout=compact" alt="radon333" /></p>
 
