@@ -29,7 +29,7 @@
           </td>
 	  <td border="0" width="300">
 <p align="center">
-            <a href="https://discordapp.com/channels/@me/Billy_Discord#8748">
+            <a href="https://discordapp.com/channels/@me/Billy_Discord#8748" target="_blank">
               <img width="50%"src="https://user-images.githubusercontent.com/25654606/119234092-af1f4180-bb49-11eb-8770-8c7f45365e08.png" />
             </a>
 </p>
