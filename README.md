@@ -14,9 +14,29 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 
 
-
-
 ![Ranveer's github activity graph](https://activity-graph.herokuapp.com/graph?username=radon333&theme=react-dark)
+
+<p align="center">
+<h3 align="center">Connect with me:</h3>
+      <table border="0" align="center">
+        <tr border="0">
+          <td border="0" width="300">
+<p align="center">
+            <a href="https://www.linkedin.com/in/ranveer-shah333">
+              <img width="50%" src="https://user-images.githubusercontent.com/25654606/119234087-a6c70680-bb49-11eb-8fd1-07b89c6c58e0.png" />
+            </a>
+</p>
+          </td>
+	  <td border="0" width="300">
+<p align="center">
+            <a href="https://discordapp.com/channels/@me/Billy_Discord#8748">
+              <img width="50%"src="https://user-images.githubusercontent.com/25654606/119234092-af1f4180-bb49-11eb-8770-8c7f45365e08.png" />
+            </a>
+</p>
+          </td>    
+        </tr>
+      </table>
+</p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&langs_count=5&theme=react" alt="radon333" /></p>
 
