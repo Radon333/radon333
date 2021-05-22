@@ -22,7 +22,7 @@
         <tr border="0">
           <td border="0" width="300">
 <p align="center">
-            <a href="https://www.linkedin.com/in/ranveer-shah333" target="_blank">
+            <a href="https://www.linkedin.com/in/ranveer-shah333" target="_blank" rel="noopener noreferrer">
               <img width="50%" src="https://user-images.githubusercontent.com/25654606/119234087-a6c70680-bb49-11eb-8fd1-07b89c6c58e0.png" />
             </a>
 </p>
