@@ -2,10 +2,18 @@
 <h1 align="center">Hi 👋, I'm Ranveer</h1>
 <h3 align="center">Web Dev | Data Science</h3>
 <p align="center">
+	<p>
 - 🧐 I'm interested in MERNstack, Data Analytics, DevOps
+        </p>
+        <p>
 - 🌱 I’m currently learning React
+	</p>
+        <p>
 - 👯 I’m looking to collaborate on open source projects
+        </p>
+        <p>
 - 🤔 I’m looking for help with getting started with open source
+        </p>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
