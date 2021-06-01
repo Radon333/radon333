@@ -11,7 +11,6 @@
 - 👯 I’m looking to collaborate on open source projects
         </p>
         <p align="center">
-- 🤔 I’m looking for help with getting started with open source
         </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
