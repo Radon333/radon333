@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ranveer</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Ranveer</h1>
 <h3 align="center">Web Dev | Data Science</h3>
 	<p align="center">
 - 🧐 I'm interested in MERNstack, Data Analytics
