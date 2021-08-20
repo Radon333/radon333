@@ -51,7 +51,7 @@
 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radon333&theme=react" alt="radon333" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radon333&theme=react&hide=css,html" alt="radon333" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radon333&theme=react&show_icons=true&locale=en" alt="radon333" />
 </p>
 
