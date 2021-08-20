@@ -47,7 +47,7 @@
 </p>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&langs_count=5&theme=react&hide=css,html" alt="radon333" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&langs_count=5&theme=react" alt="radon333" /></p>
 
 <p align="center">
 	
