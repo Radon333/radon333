@@ -5,7 +5,7 @@
 - 🧐 I'm interested in MERNstack, Data Science
         </p>
         <p align="center">
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React,TensorflowJS
 	</p>
         <p align="center">
 - 👯 I’m looking to collaborate on open source projects
