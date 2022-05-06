@@ -25,27 +25,7 @@
 
 ![Ranveer's github activity graph](https://activity-graph.herokuapp.com/graph?username=radon333&theme=react-dark)
 
-<p align="center">
-<h3 align="center">Connect with me:</h3>
-      <table border="0" align="center">
-        <tr border="0">
-          <td border="0" width="300">
-<p align="center">
-            <a href="https://www.linkedin.com/in/ranveer-shah333" target="_blank" rel="noopener noreferrer">
-              <img align="center" width="50%" src="https://user-images.githubusercontent.com/25654606/119312158-9c168980-bc8f-11eb-9d53-63a8237c21d8.png" />
-            </a>
-</p>
-          </td>
-	  <td border="0" width="300">
-<p align="center">
-            <a href="mailto: ranveershah3@pm.me">
-              <img align="center" width="50%"src="https://user-images.githubusercontent.com/25654606/119311833-2e6a5d80-bc8f-11eb-8c57-a35aa0c6d7f0.png"/>
-            </a>
-</p>
-          </td>    
-        </tr>
-      </table>
-</p>
+
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
