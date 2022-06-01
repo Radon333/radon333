@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px">, I'm Ranveer</h1>
+<h1 align="center">Hi, I'm Ranveer</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radon333&label=Profile%20views&color=0e75b6&style=flat" alt="radon333" /> </p>
 <h3 align="center">Web Dev | Data Science</h3>
 	<p align="center">
