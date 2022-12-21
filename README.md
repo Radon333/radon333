@@ -3,16 +3,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radon333&label=Profile%20views&color=0e75b6&style=flat" alt="radon333" /> </p>
 <h3 align="center">Web Dev | Data Science</h3>
 	<p align="center">
-- 🧐 I'm interested in MERNstack, Data Science
+- 🧐 I'm interested in MERNstack, Data Analytics
         </p>
-        <p align="center">
-- 🌱 I’m currently learning React,TensorflowJS
-	</p>
-        <p align="center">
-- 👯 I’m looking to collaborate on open source projects
-        </p>
-        <p align="center">
-        </p>
+	
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
 
