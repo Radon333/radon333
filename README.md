@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi, I'm Ranveer</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radon333&label=Profile%20views&color=0e75b6&style=flat" alt="radon333" /> </p>
 <h3 align="center">Web Dev | Data Science</h3>
@@ -14,6 +15,7 @@
         </p>
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,6 +31,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+
 </p>
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
