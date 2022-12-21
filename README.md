@@ -23,20 +23,16 @@
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
 
-
-![Ranveer's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Radon333&bg_color=20232a&color=61d9fa&line=61d9fa&point=2ea39b&area=true&hide_border=true)
-
-
-
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&langs_count=5&theme=react" alt="radon333" /></p>
 
 <p align="center">
 	
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radon333&theme=react" alt="radon333" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radon333&theme=react&show_icons=true&locale=en" alt="radon333" />
 </p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&langs_count=5&theme=react" alt="radon333" /></p>
+
+
 
 
