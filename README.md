@@ -2,9 +2,7 @@
 <h1 align="center">Hi, I'm Ranveer</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=radon333&label=Profile%20views&color=0e75b6&style=flat" alt="radon333" /> </p>
 <h3 align="center">Web Dev | Data Science</h3>
-	<p align="center">
-- 🧐 I'm interested in MERNstack, Data Science
-        </p>
+	
 	
 <h3 align="center">💻 Tech Stack:</h3>
 <p align="center">
