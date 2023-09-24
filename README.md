@@ -47,4 +47,4 @@
 </p>
 
 <p align="center">
-<img src="https://githubreadmestats.vercel.app/api/toplangs/username=radon333&size_weight=0.5&count_weight=0.5&hide=css,scss&langs_count=5&layout=donut&theme=react&count_private=true" alt="radon333" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&size_weight=0.6&count_weight=0.4&hide=css,scss&langs_count=5&layout=donut&theme=react&count_private=true" alt="radon333" /></p>
