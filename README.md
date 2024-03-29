@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer</h3>
 	
 	
-<h3 align="center">💻 Tech Stack:</h3>
+<h3 align="center">💻 Tech I have worked with:</h3>
 <p align="center">
 
 <div align="center">
