@@ -33,12 +33,3 @@
 </p>
 
 ![separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<p align="center">
-	
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Radon333&theme=react" alt="radon333" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=radon333&theme=react&show_icons=true&locale=en" alt="radon333" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radon333&size_weight=0.6&count_weight=0.4&hide=css,scss&langs_count=5&layout=donut&theme=react&count_private=true" alt="radon333" /></p>
